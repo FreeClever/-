@@ -299,7 +299,7 @@ var avatar=document.querySelector(".item img")
 var footer=document.querySelector("div.is-size-7")
 footer.innerHTML="你    的    自    定    义    文    字"
 footer.style.visibility="visible"
-avatar.src="https://你的自定义标志图片.jpg"
+avatar.src="https://你的自定义头像地址.jpg"
 avatar.style.visibility="visible"
 }
 </script>
